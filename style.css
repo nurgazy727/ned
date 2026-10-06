@@ -9,7 +9,7 @@ body {
 
 .header {
     display: flex;
-    background: url(/img/photo.png) no-repeat;
+    background: url(./img/photo.png) no-repeat;
     background-size: cover;
     justify-content: center;
     width: 100%;
