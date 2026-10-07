@@ -76,11 +76,6 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    position: absolute;
-    top: 180px;
-    left: 1108px;
-    width: 250px;
-    height: 238px;
 }
 
 .logo button {
